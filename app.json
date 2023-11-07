@@ -9,5 +9,10 @@
     ],
     "name": "veegil",
     "slug": "veegil"
+  },
+  "android": {
+    "permissions": [
+      "INTERNET"
+    ]
   }
 }
